@@ -9,14 +9,17 @@ The speed at which the field of deep learning is evolving is just incredible the
 
 * Mixtral-8x7B https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1
 
-Small language model with great results! I would specifically recommend it as an alternative to ChatGPT 4 for writing as it uses a significantly different style, with different metaphors and similes.
+Small language model with great results! I would specifically recommend it as an alternative to ChatGPT 4 for writing as it uses a significantly different style, with different metaphors and similes, and is able to follow prompts better than ChatGPT 3.5.
 
 * moondream1 https://huggingface.co/vikhyatk/moondream1 
+
 1.6B parameter vision-to-text model. Ideal for Jetson deployment.
 
 * InstantID https://huggingface.co/InstantX/InstantID
+
 A model for single-image face replacement. In my experience these models don't tend to work well for everyone, and are not yet ready for direct deployment to apps.
 
 * Whisper v3 https://huggingface.co/openai/whisper-large-v3
+
 A must-have for audio-based downstream classification/regression/retrieval/ranking tasks! Combine with wav2vec2 and a downstream classifier/regressor/ranker model to achieve great results!
 
