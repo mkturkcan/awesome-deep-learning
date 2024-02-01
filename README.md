@@ -5,6 +5,35 @@ A mini-blog repository of cool projects to try out, and to check out by everyone
 
 The speed at which the field of deep learning is evolving is just incredible these days! Normally I put my list of "hot stuff to check out" in my personal research log, but why not make it available for everyone? This is the repository for this!
 
+### February 1, 2024
+
+Here, I won't necessarily only talk about models that have *just* been released, but will also add interesting models. I have been interested in image and video restoration in the last few days, and today's update focuses on this.
+
+* Bringing Old Films Back to Life https://github.com/raywzy/Bringing-Old-Films-Back-to-Life 
+
+A great model for restoring videos! A very important problem with the repository is that colorization models were never released, which means one needs to use a different colorization model. Great to use at the start of the video processing pipeline.
+
+* GFPGAN https://github.com/TencentARC/GFPGAN
+
+Easy-to-install model for face restoration with great results! Comes combined with ESRGAN for super-resolution. Note that there have been many improvements in this space, with Codeformer being a good replacement.
+
+* RestoreFormer++ https://github.com/wzhouxiff/RestoreFormerPlusPlus
+
+GFPGAN repository contains RestoreFormer as an option, but this model is new! On my TODO list for models to check out.
+
+* CodeFormer https://github.com/sczhou/CodeFormer
+
+Another excellent, easy-to-install model for face restoration.
+
+* DeOldify https://github.com/jantic/DeOldify 
+
+Despite being old, this remains an open source video colorization approach that could be implemented quickly for restoration of old clips.
+
+* Colorization Transformer https://github.com/google-research/google-research/tree/master/coltran 
+
+An older model for colorization. Interesting for a read, though I have not had success with it.
+
+
 ### January 28, 2024
 
 * Mixtral-8x7B https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1
