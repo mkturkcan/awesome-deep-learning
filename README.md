@@ -5,6 +5,22 @@ A mini-blog repository of cool projects to try out, and to check out by everyone
 
 The speed at which the field of deep learning is evolving is just incredible these days! Normally I put my list of "hot stuff to check out" in my personal research log, but why not make it available for everyone? This is the repository for this!
 
+### February 2, 2024
+
+Just links to some really cool projects today!
+
+* YOLO-World: Real-Time Open-Vocabulary Object Detection https://github.com/ailab-cvc/yolo-world
+
+Open vocabulary YOLO! Very useful for real time approaches.
+
+* WhisperSpeech https://github.com/collabora/WhisperSpeech 
+
+High quality, customizable text-to-speech!
+
+* SUPIR: Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild https://github.com/Fanghua-Yu/SUPIR 
+
+Image restoration in the wild is really difficult. Any good model in this space is really valuable for using AI in entertainment and history!
+
 ### February 1, 2024
 
 Here, I won't necessarily only talk about models that have *just* been released, but will also add interesting models. I have been interested in image and video restoration in the last few days, and today's update focuses on this.
