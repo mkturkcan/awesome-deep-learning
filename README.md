@@ -5,6 +5,14 @@ A mini-blog repository of cool projects to try out, and to check out by everyone
 
 The speed at which the field of deep learning is evolving is just incredible these days! Normally I put my list of "hot stuff to check out" in my personal research log, but why not make it available for everyone? This is the repository for this!
 
+### March 16, 2024
+
+It's time for 3D reconstruction models!
+
+* TripoSR https://github.com/VAST-AI-Research/TripoSR
+
+Fast method for low-resolution 3D model generation. Good results without the Janus problem.
+
 ### February 2, 2024
 
 Just links to some really cool projects today!
