@@ -5,6 +5,15 @@ A mini-blog repository of cool projects to try out, and to check out by everyone
 
 The speed at which the field of deep learning is evolving is just incredible these days! Normally I put my list of "hot stuff to check out" in my personal research log, but why not make it available for everyone? This is the repository for this!
 
+### March 19, 2024
+
+More 3D!
+
+* Stable Video 3D https://huggingface.co/stabilityai/sv3d
+
+* LucidDreamer https://luciddreamer-cvlab.github.io/ 
+
+
 ### March 16, 2024
 
 It's time for 3D reconstruction models!
