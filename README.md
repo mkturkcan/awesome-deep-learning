@@ -1,9 +1,18 @@
-# awesome-deep-learning
+# Awesome Contemporary Deep Learning Topics
 A mini-blog repository of cool projects to try out, and to check out by everyone!
 
 ## Introduction
 
 The speed at which the field of deep learning is evolving is just incredible these days! Normally I put my list of "hot stuff to check out" in my personal research log, but why not make it available for everyone? This is the repository for this!
+
+### March 22, 2024
+
+* InternVL https://huggingface.co/OpenGVLab/InternVL-14B-224px
+
+* DINO ViT https://huggingface.co/facebook/dino-vitb16
+
+* ViT https://huggingface.co/google/vit-huge-patch14-224-in21k 
+
 
 ### March 19, 2024
 
