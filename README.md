@@ -5,6 +5,26 @@ A mini-blog repository of cool projects to try out, and to check out by everyone
 
 The speed at which the field of deep learning is evolving is just incredible these days! Normally I put my list of "hot stuff to check out" in my personal research log, but why not make it available for everyone? This is the repository for this!
 
+### April 1, 2024
+
+Many cool projects today!
+
+* Dust3r https://github.com/naver/dust3r
+
+Incredible results even for badly calibrated scenes!
+
+* Metric3D https://github.com/YvanYin/Metric3D
+
+Monocular metric depth estimation is very useful for a large variety of downstream applications!
+
+* Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity https://arxiv.org/abs/2403.14403
+
+Awaiting the source code release!
+
+* Duolando https://github.com/lisiyao21/Duolando
+
+Excellent project, a lot of work!
+
 ### March 22, 2024
 
 * InternVL https://huggingface.co/OpenGVLab/InternVL-14B-224px
