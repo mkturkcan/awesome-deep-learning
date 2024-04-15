@@ -5,6 +5,16 @@ A mini-blog repository of cool projects to try out, and to check out by everyone
 
 The speed at which the field of deep learning is evolving is just incredible these days! Normally I put my list of "hot stuff to check out" in my personal research log, but why not make it available for everyone? This is the repository for this!
 
+### April 15, 2024
+
+* COCONut: Crafting the Future of Segmentation Datasets with Exquisite Annotations in the Era of ✨Big Data✨ https://xdeng7.github.io/coconut.github.io/
+
+* SpatialTracker: Tracking Any 2D Pixels in 3D Space https://henry123-boy.github.io/SpaTracker/ 
+
+* DreamScene360 https://dreamscene360.github.io/
+
+* RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion https://realmdreamer.github.io/
+
 ### April 1, 2024
 
 Many cool projects today!
