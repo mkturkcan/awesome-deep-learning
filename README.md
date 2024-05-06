@@ -5,6 +5,14 @@ A mini-blog repository of cool projects to try out, and to check out by everyone
 
 The speed at which the field of deep learning is evolving is just incredible these days! Normally I put my list of "hot stuff to check out" in my personal research log, but why not make it available for everyone? This is the repository for this!
 
+### May 6, 2024
+
+* flair/ner-english-ontonotes-large https://huggingface.co/flair/ner-english-ontonotes-large
+
+* Outlines https://github.com/outlines-dev/outlines
+
+* Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting https://research.paulengstler.com/invisible-stitch/
+
 ### April 15, 2024
 
 * COCONut: Crafting the Future of Segmentation Datasets with Exquisite Annotations in the Era of ✨Big Data✨ https://xdeng7.github.io/coconut.github.io/
